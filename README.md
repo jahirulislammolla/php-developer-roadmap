@@ -38,7 +38,7 @@ The repository is created when working on the following YouTube video [PHP Devel
 | How The Web Works - The Big Picture       | 12m    | https://youtu.be/hJHvdBlSxug                            |
 | How does the internet work? (Full Course) | 1h 42m | https://youtu.be/zN8YNNHcaZc                            |
 
-### Done [<img src="https://cdn4.iconfinder.com/data/icons/round-buttons/512/blue_tick.png" width="300">] 
+<img src="https://cdn4.iconfinder.com/data/icons/round-buttons/512/blue_tick.png" width="50"> ### Done 
 
 ### Browser/Server request flow, HTTP Protocol, Status codes
 | Resource Name                   |Duration| Resource                                                |
